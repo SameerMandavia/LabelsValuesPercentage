@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACE,SADO,CACP,YAAY,CAAC,OAAO,CAAC;EACnB,MAAM,EAAE,KAAK;EACb,YAAY,EAAE,IAAI;CACnB;;AAJH,AAKE,SALO,CAKP,YAAY,CAAC,OAAO,CAAC;EACnB,MAAM,EAAE,IAAI;EACZ,YAAY,EAAE,IAAI;CACnB;;AARH,AASE,SATO,CASP,YAAY,CAAC,OAAO,CAAC;EACnB,MAAM,EAAE,GAAG;EACX,YAAY,EAAE,IAAI;CACnB;;AAZH,AAaE,SAbO,CAaP,SAAS,CAAC;EACR,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;CACf",
+    "sources": [
+        "simple-bar-chart.component.scss"
+    ],
+    "names": [],
+    "file": "simple-bar-chart.component.css"
+}

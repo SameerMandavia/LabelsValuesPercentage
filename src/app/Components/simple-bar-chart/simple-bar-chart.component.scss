@@ -1,0 +1,18 @@
+::ng-deep {
+  .ct-series-a .ct-bar {
+    stroke: green;
+    stroke-width: 40px;
+  }
+  .ct-series-b .ct-bar {
+    stroke: grey;
+    stroke-width: 40px;
+  }
+  .ct-series-c .ct-bar {
+    stroke: red;
+    stroke-width: 40px;
+  }
+  .ct-label {
+    font-size: 14px;
+    color: #000000;
+  }
+}

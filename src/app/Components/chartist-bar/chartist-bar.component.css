@@ -1,0 +1,26 @@
+/* .ct-chart{
+    stroke: blue;
+} */
+
+.ct-series-a .ct-bar {
+    stroke: blue;
+    stroke-width: 20px;
+    stroke-dasharray: 20px;
+    stroke-linecap: round;
+  }
+
+  
+ /* :host
+  .ct-series-a{
+     stroke: blue;
+ }
+
+ .ct-series-b{
+    stroke: green;
+}
+.ct-series-c{
+    stroke: red;
+}
+.ct-series-d{
+    stroke: yellow;
+} */
